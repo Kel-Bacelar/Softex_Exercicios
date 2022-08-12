@@ -1,3 +1,5 @@
+ATIVIDADE20_SOFTEX
+
 Desenvolva um programa que deve ler um arquivo csv intitulado “notas_alunos.csv”. O arquivo deve ter a seguinte estrutura:
 
 aluno: Nome do aluno;
